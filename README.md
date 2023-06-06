@@ -104,7 +104,7 @@ int main()
 
 最后的结果如下：
 
-![](C:\Users\Zheng\Desktop\oneapi\img\result_without_api.jpg)
+![](./result_without_api.jpg)
 
 ### 实验组：使用oneAPI工具
 
@@ -219,7 +219,7 @@ int main()
 
 最后的结果如下：
 
-![](C:\Users\Zheng\Desktop\oneapi\img\result_with_api.jpg)
+![](./result_with_api.jpg)
 
 
 
